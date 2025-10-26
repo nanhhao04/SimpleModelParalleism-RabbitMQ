@@ -1,0 +1,14 @@
+rabbit_host: "localhost"
+rabbit_user: "mluser"
+rabbit_pass: "mlpass"
+vhost: "/ml"
+
+forward_queue: "forward_queue"
+backward_queue: "backward_queue"
+split_point: 20
+lr: 0.001
+batch_size: 64
+
+data:
+  name: "MNIST"
+  batch_size: 64
