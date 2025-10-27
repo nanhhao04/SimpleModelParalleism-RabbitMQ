@@ -22,7 +22,7 @@ mỗi thiết bị giữ một phần của mạng neural, giao tiếp qua **Rab
 
 ## Các bước thức hiện
 
-### 1️. Cài Python packages
+### 1. Cài Python packages
 ```bash
 pip install -r requirements.txt
 ```
